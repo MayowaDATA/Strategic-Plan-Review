@@ -1,0 +1,422 @@
+issued_id,issued_member_id,issued_book_name,issued_date,issued_book_isbn,issued_emp_id
+IS101,C2291,"Monitored Human-Resource Definition",2024-07-08,978-8-218-19287-3,E116
+IS102,C1913,"Implemented Fresh-Thinking Architecture",2024-07-31,978-8-562-25860-3,E125
+IS103,C3827,"Multi-Channeled Dedicated Intranet",2024-02-10,978-8-104-22934-3,E126
+IS104,C3860,"Synergistic Needs-Based Pricing Structure",2025-04-21,978-7-646-95029-5,E117
+IS105,C470,"Cross-Group 4Thgeneration Secured Line",2024-07-31,978-5-194-80206-3,E116
+IS106,C962,"Organized Holistic Knowledgebase",2025-04-21,978-7-521-54605-2,E111
+IS107,C1898,"Up-Sized Asynchronous Product",2024-04-05,978-5-453-69298-7,E121
+IS108,C3427,"Re-Engineered Background Project",2025-08-16,978-4-515-19123-9,E127
+IS109,C239,"Phased Next Generation Success",2024-08-12,978-0-847-66113-3,E118
+IS110,C429,"Re-Contextualized Clear-Thinking Definition",2024-11-13,978-7-316-63368-7,E132
+IS111,C3119,"Diverse Coherent Hardware",2025-08-04,978-9-881-11832-8,E127
+IS112,C3546,"Decentralized Transitional Knowledgebase",2024-03-10,978-0-399-95119-6,E122
+IS113,C1831,"Innovative Web-Enabled Orchestration",2025-06-01,978-2-484-96034-9,E107
+IS114,C757,"Phased Multimedia Interface",2024-07-26,978-3-811-99881-0,E117
+IS115,C372,"Compatible Methodical Middleware",2025-07-20,978-1-923-28322-1,E123
+IS116,C2567,"Implemented Cohesive Functionalities",2024-07-19,978-4-572-31821-6,E136
+IS117,C1439,"Progressive Modular Budgetary Management",2024-12-23,978-6-100-14543-4,E130
+IS118,C213,"Ergonomic Intangible Paradigm",2025-11-10,978-5-468-83446-8,E104
+IS119,C2728,"Proactive Demand-Driven Throughput",2025-02-11,978-3-868-85584-2,E112
+IS120,C1917,"Persistent Multimedia Database",2025-08-10,978-8-723-36071-2,E109
+IS121,C1742,"Diverse Zero Tolerance Matrices",2024-07-07,978-0-882-80972-0,E113
+IS122,C1352,"Pre-Emptive Scalable Installation",2024-07-08,978-5-597-69067-5,E121
+IS123,C437,"Monitored 3Rdgeneration Software",2025-03-30,978-4-129-33647-4,E108
+IS124,C1123,"Polarized Systematic Support",2025-07-15,978-8-316-36712-8,E134
+IS125,C4072,"Centralized Bifurcated Matrix",2025-10-02,978-5-666-31627-7,E109
+IS126,C2534,"Robust Impactful Groupware",2025-05-24,978-9-557-35646-3,E127
+IS127,C3948,"Future-Proofed Human-Resource Solution",2024-09-16,978-4-343-22571-0,E121
+IS128,C2060,"Team-Oriented Client-Server Analyzer",2024-08-07,978-2-397-15513-4,E109
+IS129,C811,"Integrated Scalable Paradigm",2025-10-16,978-5-363-31229-1,E138
+IS130,C1442,"Mandatory Empowering Superstructure",2024-06-04,978-9-105-20384-0,E119
+IS131,C446,"Centralized Full-Range Data-Warehouse",2024-12-09,978-9-459-79767-4,E127
+IS132,C846,"Integrated Human-Resource Database",2025-08-04,978-5-279-94957-8,E126
+IS133,C1646,"Public-Key Scalable Functionalities",2024-01-31,978-2-912-57381-8,E137
+IS134,C185,"Seamless Systematic Core",2024-03-05,978-1-901-26225-9,E102
+IS135,C2388,"Right-Sized Methodical Project",2025-06-06,978-3-340-41726-4,E140
+IS136,C1037,"Focused Intermediate Protocol",2024-02-01,978-8-533-72240-3,E106
+IS137,C1995,"Expanded Hybrid Core",2024-05-28,978-1-730-86917-3,E113
+IS138,C2973,"Inverse Interactive Hierarchy",2024-09-09,978-7-509-41979-2,E111
+IS139,C1743,"Distributed Upward-Trending Standardization",2025-11-08,978-8-900-73527-5,E140
+IS140,C2560,"Synchronized Dynamic Conglomeration",2024-09-11,978-8-401-69469-8,E117
+IS141,C465,"Versatile Intermediate Matrix",2025-02-16,978-1-547-23875-3,E124
+IS142,C3980,"Synchronized Exuding Collaboration",2025-05-23,978-2-810-49251-0,E137
+IS143,C158,"Profound Discrete Time-Frame",2025-03-18,978-8-416-33010-7,E134
+IS144,C3268,"Optional Dedicated Function",2025-03-02,978-5-161-43847-4,E130
+IS145,C2860,"Networked Multi-State Help-Desk",2024-08-13,978-5-483-66450-2,E132
+IS146,C1020,"Ergonomic Incremental Graphical User Interface",2024-10-15,978-8-344-50562-7,E114
+IS147,C3976,"Digitized Upward-Trending Website",2024-09-11,978-7-454-30332-4,E118
+IS148,C3158,"Programmable Tertiary Conglomeration",2024-07-19,978-1-420-58177-4,E132
+IS149,C634,"User-Friendly Didactic Array",2025-04-16,978-6-357-53816-9,E128
+IS150,C947,"Programmable Directional Artificial Intelligence",2024-12-20,978-7-143-56210-9,E139
+IS151,C3476,"Reactive Bottom-Line Synergy",2024-10-10,978-5-959-29073-0,E119
+IS152,C2874,"Face-To-Face 5Thgeneration Alliance",2024-11-10,978-8-150-98759-4,E113
+IS153,C839,"Robust Impactful Groupware",2024-07-01,978-9-557-35646-3,E127
+IS154,C698,"Expanded Fault-Tolerant Task-Force",2025-02-14,978-8-322-17398-2,E102
+IS155,C4099,"Reduced Heuristic Software",2024-03-07,978-7-525-73471-7,E117
+IS156,C2631,"Re-Engineered Multi-Tasking Internet Solution",2024-08-04,978-2-603-94513-3,E129
+IS157,C1118,"Programmable Hybrid Middleware",2024-12-30,978-6-328-87280-4,E124
+IS158,C2903,"Ergonomic Global Orchestration",2024-10-07,978-0-255-29555-9,E130
+IS159,C143,"Pre-Emptive Directional Productivity",2025-02-21,978-9-674-52992-9,E131
+IS160,C3670,"Focused Intermediate Protocol",2025-12-04,978-8-533-72240-3,E121
+IS161,C2939,"User-Friendly Impactful Internet Solution",2025-06-02,978-0-943-90862-4,E126
+IS162,C970,"Synergistic Asymmetric Strategy",2024-07-17,978-9-191-24749-6,E125
+IS163,C1834,"Organic Secondary Utilization",2024-01-09,978-6-421-32699-7,E139
+IS164,C400,"Pre-Emptive Didactic Collaboration",2024-04-28,978-5-556-41502-9,E107
+IS165,C341,"Seamless Demand-Driven Standardization",2025-07-10,978-1-238-49932-0,E104
+IS166,C3914,"Re-Contextualized Clear-Thinking Definition",2024-04-25,978-7-316-63368-7,E116
+IS167,C3821,"Synergistic Web-Enabled Neural-Net",2024-10-29,978-6-470-23970-2,E123
+IS168,C3948,"Polarized Discrete Artificial Intelligence",2025-05-15,978-5-708-95905-0,E139
+IS169,C3165,"Phased Grid-Enabled Artificial Intelligence",2025-06-14,978-0-346-84364-1,E103
+IS170,C1139,"Object-Based Holistic Utilization",2024-05-22,978-8-209-83220-1,E133
+IS171,C1661,"Open-Source Grid-Enabled Paradigm",2024-04-06,978-3-188-66948-1,E120
+IS172,C2850,"Secured Optimizing Architecture",2025-04-30,978-4-698-59941-5,E124
+IS173,C4066,"Managed Asynchronous Benchmark",2025-05-30,978-8-925-80575-3,E136
+IS174,C2478,"Team-Oriented Client-Server Analyzer",2024-07-23,978-2-397-15513-4,E112
+IS175,C796,"Grass-Roots Actuating Emulation",2025-03-29,978-3-612-25704-6,E133
+IS176,C3911,"Function-Based Non-Volatile Internet Solution",2024-03-26,978-5-344-80730-1,E122
+IS177,C2018,"Sharable Well-Modulated Database",2024-10-11,978-1-260-41439-2,E109
+IS178,C1400,"Open-Architected 24/7 Adapter",2024-01-10,978-6-463-32768-2,E134
+IS179,C681,"Open-Architected Motivating Frame",2024-07-21,978-4-332-21846-6,E117
+IS180,C1384,"Networked Transitional Data-Warehouse",2025-01-01,978-7-134-85965-5,E103
+IS181,C2145,"Re-Contextualized Modular Capability",2024-08-13,978-6-552-20407-9,E118
+IS182,C1577,"Switchable Coherent Website",2025-03-19,978-1-654-17897-1,E128
+IS183,C3798,"Open-Source 24Hour Policy",2025-08-20,978-1-723-14948-6,E117
+IS184,C3498,"Inverse Empowering Moratorium",2024-08-26,978-7-378-60556-7,E117
+IS185,C1383,"Multi-Channeled Full-Range Productivity",2024-12-24,978-8-619-53421-4,E128
+IS186,C776,"Seamless 24/7 Budgetary Management",2025-06-29,978-8-496-77649-0,E121
+IS187,C2113,"Self-Enabling Uniform Function",2025-11-14,978-5-400-38632-9,E110
+IS188,C3595,"Customer-Focused Interactive Success",2024-05-17,978-4-869-42406-4,E129
+IS189,C874,"Open-Source 6Thgeneration Initiative",2024-09-18,978-4-550-20155-4,E110
+IS190,C1042,"Cloned 5Thgeneration Moratorium",2025-06-29,978-3-936-70332-5,E112
+IS191,C2027,"De-Engineered Responsive Parallelism",2024-10-12,978-6-213-47125-9,E117
+IS192,C2992,"Intuitive Coherent Utilization",2024-02-10,978-3-120-79002-7,E130
+IS193,C576,"Configurable Interactive Structure",2025-03-01,978-8-218-60488-9,E132
+IS194,C1909,"Polarized Discrete Artificial Intelligence",2024-03-02,978-5-708-95905-0,E123
+IS195,C2398,"Total Intermediate Function",2025-10-09,978-1-187-97574-5,E132
+IS196,C2120,"Robust Client-Driven Implementation",2024-12-09,978-9-277-53975-1,E108
+IS197,C3049,"Multi-Channeled Context-Sensitive Core",2024-09-09,978-7-209-41091-6,E110
+IS198,C1532,"Right-Sized 3Rdgeneration Knowledgebase",2025-03-18,978-8-469-18870-8,E106
+IS199,C3657,"Managed Zero-Defect Definition",2025-02-15,978-7-205-55015-1,E119
+IS200,C3520,"Horizontal Heuristic Hierarchy",2024-01-24,978-2-974-14250-9,E111
+IS201,C2184,"Configurable Interactive Support",2024-08-17,978-0-570-53478-0,E118
+IS202,C3750,"Vision-Oriented Demand-Driven Migration",2025-12-08,978-5-916-78062-4,E138
+IS203,C2491,"Cross-Group Full-Range Emulation",2024-06-03,978-3-180-70174-7,E101
+IS204,C3242,"Managed Zero-Defect Definition",2024-07-01,978-7-205-55015-1,E137
+IS205,C1806,"Optional Cohesive Process Improvement",2024-01-13,978-5-873-28909-3,E105
+IS206,C3247,"Centralized Real-Time Adapter",2024-02-05,978-4-655-74237-3,E132
+IS207,C487,"Cloned Executive Productivity",2024-09-12,978-5-391-30676-7,E122
+IS208,C1265,"Enterprise-Wide Zero Administration Knowledge User",2025-11-22,978-5-500-86865-1,E108
+IS209,C1631,"Devolved 6Thgeneration Internet Solution",2025-02-25,978-3-626-39825-6,E138
+IS210,C3997,"Exclusive Background Internet Solution",2024-02-12,978-7-852-34833-2,E107
+IS211,C1426,"Realigned Exuding Archive",2025-10-28,978-8-600-42914-0,E110
+IS212,C433,"Face-To-Face Content-Based Artificial Intelligence",2024-05-31,978-1-685-42846-7,E130
+IS213,C2999,"Robust Asynchronous Standardization",2024-08-18,978-1-126-37125-2,E131
+IS214,C2674,"Operative Directional Strategy",2025-10-06,978-3-144-26762-9,E118
+IS215,C2796,"Public-Key Stable Alliance",2024-09-22,978-8-273-99825-6,E101
+IS216,C4073,"Assimilated Even-Keeled Success",2024-05-29,978-2-410-11383-0,E103
+IS217,C2650,"Organized Upward-Trending Forecast",2024-11-02,978-1-184-45123-2,E129
+IS218,C3981,"Self-Enabling Exuding Matrices",2024-07-15,978-8-379-31567-4,E137
+IS219,C966,"Configurable Systematic Policy",2024-03-30,978-3-290-65675-9,E104
+IS220,C2737,"Universal Exuding Paradigm",2025-05-13,978-4-902-69054-7,E119
+IS221,C3370,"Open-Source Value-Added Policy",2025-09-27,978-9-992-96445-2,E104
+IS222,C390,"Proactive Even-Keeled Middleware",2024-05-05,978-5-138-70412-6,E136
+IS223,C2567,"Adaptive 5Thgeneration Forecast",2025-06-03,978-1-657-39466-2,E125
+IS224,C1734,"Integrated Multi-State Instruction Set",2025-05-06,978-9-619-60394-7,E117
+IS225,C1084,"Sharable Well-Modulated Database",2024-02-01,978-1-260-41439-2,E126
+IS226,C185,"Versatile Mission-Critical Budgetary Management",2025-04-28,978-7-721-67939-6,E114
+IS227,C1692,"Mandatory Transitional Service-Desk",2024-08-25,978-6-484-20518-8,E126
+IS228,C2751,"Mandatory 3Rdgeneration Array",2024-08-17,978-2-337-70443-4,E110
+IS229,C1323,"Configurable Systematic Policy",2025-11-04,978-3-290-65675-9,E132
+IS230,C1871,"Managed User-Facing Orchestration",2025-12-08,978-2-669-70570-9,E120
+IS231,C2906,"Optional Heuristic Framework",2024-03-12,978-5-192-61717-0,E139
+IS232,C1571,"Decentralized Systemic Analyzer",2025-07-19,978-0-627-74314-7,E107
+IS233,C1606,"Persistent Logistical Ability",2025-05-13,978-9-640-65476-1,E133
+IS234,C2106,"Phased Impactful Moratorium",2024-03-10,978-5-521-85851-5,E129
+IS235,C1690,"Exclusive Full-Range Throughput",2024-08-28,978-7-756-81211-8,E131
+IS236,C2407,"Re-Engineered Multi-Tasking Matrices",2025-02-13,978-1-967-53456-1,E139
+IS237,C470,"Fundamental Solution-Oriented Capability",2025-02-14,978-9-278-87564-2,E128
+IS238,C1609,"Sharable Coherent Data-Warehouse",2025-08-26,978-8-195-94675-6,E140
+IS239,C1879,"Digitized Attitude-Oriented Analyzer",2025-06-12,978-2-911-50319-9,E128
+IS240,C266,"Synergized Solution-Oriented Instruction Set",2025-02-11,978-3-773-97122-5,E133
+IS241,C4087,"Customizable Regional Definition",2024-05-03,978-6-466-27659-4,E130
+IS242,C1019,"Ameliorated Disintermediate Knowledgebase",2024-07-10,978-0-184-53006-7,E110
+IS243,C2129,"Cross-Group Hybrid Structure",2025-03-09,978-9-989-46009-7,E134
+IS244,C2752,"Cloned Client-Server Architecture",2024-11-09,978-0-687-47268-7,E134
+IS245,C1291,"Stand-Alone Methodical Policy",2024-11-05,978-5-834-33260-5,E130
+IS246,C425,"Cloned Neutral Local Area Network",2024-08-29,978-9-820-36805-6,E131
+IS247,C709,"Decentralized Actuating Attitude",2025-10-11,978-9-757-60934-7,E109
+IS248,C3799,"Programmable Empowering Matrices",2024-06-03,978-3-173-14833-2,E120
+IS249,C1119,"Versatile Static Task-Force",2025-08-01,978-7-162-21497-4,E134
+IS250,C1311,"Multi-Layered Intangible Forecast",2024-03-25,978-3-788-50687-3,E137
+IS251,C2357,"Exclusive Well-Modulated Superstructure",2024-03-02,978-7-178-25278-2,E105
+IS252,C285,"Innovative Multi-Tasking Database",2025-04-06,978-4-891-64387-5,E133
+IS253,C2192,"Decentralized Tangible Support",2025-07-01,978-9-681-18163-6,E128
+IS254,C488,"User-Friendly Systematic Product",2024-05-26,978-8-928-45235-6,E130
+IS255,C3051,"Multi-Tiered Optimal Core",2025-01-26,978-9-941-30204-7,E137
+IS256,C1138,"Seamless Object-Oriented Open System",2025-04-23,978-6-807-36724-6,E123
+IS257,C2499,"Realigned Context-Sensitive Monitoring",2024-04-17,978-8-409-32939-1,E106
+IS258,C2163,"Extended 5Thgeneration Hierarchy",2024-09-10,978-8-567-12011-2,E102
+IS259,C3134,"Streamlined Solution-Oriented Synergy",2025-01-18,978-9-767-34672-5,E130
+IS260,C3321,"Programmable 24/7 Array",2024-10-10,978-1-567-90114-2,E112
+IS261,C1710,"Cloned Client-Server Architecture",2025-09-17,978-0-687-47268-7,E103
+IS262,C1805,"Managed Clear-Thinking Info-Mediaries",2024-07-10,978-3-813-39603-4,E120
+IS263,C2506,"Multi-Channeled Interactive Product",2025-08-13,978-9-338-48074-3,E130
+IS264,C2846,"Grass-Roots Bi-Directional Framework",2025-05-21,978-5-522-56281-8,E129
+IS265,C3409,"Synergized Solution-Oriented Instruction Set",2024-03-27,978-3-773-97122-5,E117
+IS266,C4060,"Multi-Tiered Mobile Website",2025-02-17,978-6-861-67637-6,E112
+IS267,C859,"Phased Mission-Critical Utilization",2025-08-10,978-0-722-74679-3,E106
+IS268,C2575,"Cross-Group Fault-Tolerant Hardware",2025-04-12,978-4-265-70199-9,E117
+IS269,C2859,"Function-Based 24/7 Projection",2024-08-29,978-0-820-56095-9,E107
+IS270,C2289,"Phased Grid-Enabled Artificial Intelligence",2024-08-10,978-0-346-84364-1,E102
+IS271,C1718,"Multi-Lateral Context-Sensitive Neural-Net",2025-09-05,978-1-162-62772-5,E108
+IS272,C804,"Customer-Focused Client-Server Support",2025-01-24,978-9-629-84905-9,E131
+IS273,C2934,"Implemented Well-Modulated Parallelism",2025-09-16,978-0-535-79615-6,E126
+IS274,C2795,"Proactive Modular Methodology",2024-03-12,978-2-771-84035-2,E139
+IS275,C2094,"Customizable Optimizing Pricing Structure",2025-11-08,978-9-299-69606-6,E120
+IS276,C3431,"Profound Client-Server Solution",2024-07-29,978-2-184-84107-0,E140
+IS277,C2929,"Proactive Bandwidth-Monitored Productivity",2025-12-04,978-8-979-46624-7,E126
+IS278,C1340,"Total Directional Secured Line",2025-01-29,978-7-952-47512-3,E106
+IS279,C654,"Ergonomic Incremental Graphical User Interface",2025-11-09,978-8-344-50562-7,E101
+IS280,C559,"Integrated Leadingedge Customer Loyalty",2024-09-27,978-0-407-39083-3,E102
+IS281,C4076,"Ergonomic Fault-Tolerant Moratorium",2024-03-25,978-3-865-98716-5,E113
+IS282,C210,"Cross-Group Eco-Centric Secured Line",2024-06-16,978-6-972-55706-7,E114
+IS283,C2757,"Open-Architected National Website",2024-01-11,978-0-126-62037-8,E110
+IS284,C1091,"Reverse-Engineered Foreground Data-Warehouse",2024-03-28,978-0-348-95037-2,E128
+IS285,C2665,"Ergonomic Incremental Graphical User Interface",2024-05-29,978-8-344-50562-7,E135
+IS286,C453,"Inverse Asynchronous Adapter",2025-08-17,978-7-618-13268-7,E120
+IS287,C1999,"Progressive Maximized Migration",2025-09-23,978-3-133-69827-0,E110
+IS288,C1829,"Open-Architected Motivating Frame",2024-09-06,978-4-332-21846-6,E102
+IS289,C781,"Persistent Bottom-Line Policy",2025-09-09,978-2-574-94685-7,E110
+IS290,C2978,"Integrated Asymmetric Workforce",2024-09-15,978-6-426-18444-3,E129
+IS291,C2087,"Organic Coherent Encoding",2025-03-23,978-7-614-79615-2,E131
+IS292,C3622,"Public-Key User-Facing Instruction Set",2025-03-03,978-5-141-38681-7,E129
+IS293,C1094,"Centralized Real-Time Architecture",2025-10-23,978-6-252-49306-6,E113
+IS294,C2433,"Re-Contextualized National Artificial Intelligence",2024-06-08,978-2-920-70901-8,E126
+IS295,C1468,"Sharable Client-Driven Application",2024-05-21,978-3-373-81987-2,E101
+IS296,C2683,"Organic Upward-Trending Toolset",2024-03-17,978-1-268-68925-7,E128
+IS297,C3576,"Seamless 24/7 Budgetary Management",2024-03-24,978-8-496-77649-0,E132
+IS298,C2471,"Horizontal Intangible Paradigm",2025-07-27,978-8-966-89260-7,E139
+IS299,C2371,"Stand-Alone Asynchronous System Engine",2025-07-31,978-0-775-35313-6,E119
+IS300,C2097,"Team-Oriented Content-Based Definition",2024-02-23,978-2-838-13336-7,E126
+IS301,C2203,"Realigned Value-Added Knowledge User",2025-05-30,978-8-800-36517-2,E138
+IS302,C2605,"Distributed Needs-Based Product",2025-09-05,978-2-706-86106-2,E132
+IS303,C3026,"Re-Contextualized Modular Paradigm",2024-08-09,978-6-136-83024-8,E104
+IS304,C178,"Versatile User-Facing Middleware",2024-07-01,978-9-473-51462-6,E128
+IS305,C1394,"Open-Architected Eco-Centric Function",2025-04-20,978-1-899-95426-0,E136
+IS306,C1198,"Grass-Roots Well-Modulated Hub",2024-09-28,978-4-286-32984-2,E127
+IS307,C2039,"Organized Coherent Matrix",2024-10-04,978-5-983-33639-1,E108
+IS308,C2651,"Down-Sized Leadingedge Database",2025-08-14,978-1-660-22203-5,E123
+IS309,C2958,"Ergonomic Non-Volatile Access",2024-03-20,978-1-709-18907-3,E128
+IS310,C761,"Proactive Modular Methodology",2024-05-23,978-2-771-84035-2,E119
+IS311,C888,"Multi-Layered High-Level Definition",2025-05-10,978-5-500-70694-9,E131
+IS312,C1895,"Organic Intangible Time-Frame",2024-09-26,978-4-737-89381-2,E115
+IS313,C1000,"Managed Bottom-Line Superstructure",2024-05-07,978-1-713-57416-9,E138
+IS314,C2906,"Monitored Asymmetric Product",2024-08-26,978-0-893-73472-6,E122
+IS315,C2567,"Optional Heuristic Framework",2025-02-27,978-5-192-61717-0,E130
+IS316,C3718,"Inverse Dynamic Artificial Intelligence",2025-11-12,978-8-794-90274-3,E119
+IS317,C3014,"Customer-Focused Bandwidth-Monitored Solution",2024-07-03,978-5-304-64304-6,E125
+IS318,C1808,"Configurable Web-Enabled Standardization",2025-06-28,978-6-515-60012-6,E124
+IS319,C2035,"Public-Key Encompassing Customer Loyalty",2024-01-02,978-7-888-41886-5,E111
+IS320,C949,"Mandatory System-Worthy Parallelism",2025-08-22,978-2-911-33644-8,E119
+IS321,C3169,"Synergistic Web-Enabled Open Architecture",2024-07-27,978-3-494-68059-3,E106
+IS322,C2078,"Stand-Alone Client-Server Architecture",2025-06-03,978-1-249-43550-3,E109
+IS323,C918,"Synergistic Web-Enabled Neural-Net",2025-05-11,978-6-470-23970-2,E111
+IS324,C2116,"Multi-Layered Encompassing Secured Line",2024-01-07,978-4-545-55123-1,E107
+IS325,C1804,"Up-Sized 3Rdgeneration Framework",2025-05-28,978-9-984-39002-2,E132
+IS326,C1062,"Pre-Emptive Didactic Collaboration",2025-01-29,978-5-556-41502-9,E114
+IS327,C293,"Universal Content-Based Support",2025-03-01,978-0-986-57059-0,E102
+IS328,C3709,"Secured Static Collaboration",2024-07-19,978-6-533-34347-7,E117
+IS329,C2873,"Realigned Content-Based Access",2025-10-28,978-7-575-83889-9,E111
+IS330,C3492,"Innovative Multimedia Productivity",2024-09-22,978-8-251-66333-2,E133
+IS331,C3405,"Vision-Oriented Value-Added Focus Group",2025-03-18,978-3-548-48185-1,E105
+IS332,C1864,"Universal Tangible Challenge",2024-10-30,978-1-662-47289-8,E108
+IS333,C1029,"Up-Sized Tangible Installation",2024-02-14,978-1-310-80484-6,E108
+IS334,C1018,"Synergistic Didactic Knowledge User",2024-12-08,978-4-821-37168-7,E132
+IS335,C1494,"Realigned Context-Sensitive Monitoring",2025-01-03,978-8-409-32939-1,E123
+IS336,C292,"Extended Modular Success",2025-10-19,978-0-109-49110-9,E136
+IS337,C3772,"Enhanced Secondary Infrastructure",2025-08-30,978-1-642-22541-9,E110
+IS338,C2927,"Optional Stable Parallelism",2024-05-14,978-1-390-88419-8,E133
+IS339,C2843,"Triple-Buffered Directional Productivity",2024-06-17,978-2-592-83308-3,E107
+IS340,C307,"Customer-Focused Logistical Challenge",2025-11-16,978-2-186-27985-6,E129
+IS341,C1973,"Reverse-Engineered 24/7 Methodology",2024-06-23,978-7-832-58200-4,E108
+IS342,C534,"Stand-Alone Client-Server Internet Solution",2024-11-02,978-7-901-31206-1,E140
+IS343,C3304,"Innovative 5Thgeneration Collaboration",2025-03-20,978-3-713-93634-1,E107
+IS344,C2404,"Organic Intangible Time-Frame",2024-02-14,978-4-737-89381-2,E103
+IS345,C532,"Proactive Demand-Driven Throughput",2024-11-12,978-3-868-85584-2,E111
+IS346,C584,"Centralized Asymmetric Graphical User Interface",2024-03-20,978-0-249-51901-7,E114
+IS347,C1582,"Ergonomic Clear-Thinking Focus Group",2024-01-21,978-4-553-93472-4,E111
+IS348,C1297,"Multi-Lateral Value-Added Archive",2024-01-03,978-5-788-72797-7,E129
+IS349,C2173,"Synergistic Systematic Archive",2025-04-18,978-4-522-39170-3,E132
+IS350,C3666,"Configurable Leadingedge Challenge",2024-10-02,978-6-462-97207-6,E107
+IS351,C2751,"Diverse Client-Driven Access",2025-01-17,978-5-281-62198-5,E124
+IS352,C3456,"Virtual Context-Sensitive Array",2024-08-27,978-4-754-65615-4,E109
+IS353,C3576,"Programmable Context-Sensitive Hub",2024-08-22,978-1-444-49552-5,E113
+IS354,C4072,"Realigned Context-Sensitive Monitoring",2024-12-30,978-8-409-32939-1,E127
+IS355,C3250,"Public-Key Methodical Approach",2024-06-19,978-9-221-26864-1,E101
+IS356,C3520,"Synergized Solution-Oriented Instruction Set",2024-10-31,978-3-773-97122-5,E131
+IS357,C1275,"Versatile Upward-Trending Superstructure",2025-06-16,978-4-863-54500-3,E133
+IS358,C450,"Digitized Mobile Capability",2025-10-10,978-7-599-52898-9,E118
+IS359,C3030,"Profound Client-Server Solution",2025-09-04,978-2-184-84107-0,E127
+IS360,C2679,"Innovative Multimedia Pricing Structure",2024-09-25,978-2-803-72163-1,E116
+IS361,C3186,"Face-To-Face Regional Contingency",2024-04-10,978-3-943-62505-5,E134
+IS362,C3325,"Universal Grid-Enabled Throughput",2025-09-28,978-8-760-57012-0,E115
+IS363,C3385,"Monitored Optimizing Focus Group",2025-04-30,978-4-971-51288-6,E128
+IS364,C3861,"Intuitive Attitude-Oriented Info-Mediaries",2025-07-01,978-6-299-74286-5,E127
+IS365,C1980,"User-Friendly Tangible Open System",2024-12-13,978-4-163-58394-8,E134
+IS366,C2895,"Open-Architected Methodical Projection",2024-01-02,978-7-570-14716-0,E124
+IS367,C222,"Advanced Global Flexibility",2024-08-29,978-4-569-94323-0,E129
+IS368,C3255,"Decentralized Transitional Knowledgebase",2024-12-08,978-0-399-95119-6,E101
+IS369,C3403,"Open-Architected Methodical Projection",2024-05-26,978-7-570-14716-0,E134
+IS370,C386,"Multi-Layered Radical Attitude",2025-05-16,978-4-347-43119-2,E106
+IS371,C1390,"Operative Static Application",2025-03-01,978-0-570-60801-8,E126
+IS372,C774,"Visionary Background Alliance",2024-12-09,978-6-238-70515-2,E128
+IS373,C1711,"User-Friendly Systematic Product",2024-03-31,978-8-928-45235-6,E103
+IS374,C3879,"Automated Responsive Pricing Structure",2024-06-27,978-9-874-59253-1,E110
+IS375,C2454,"Synergized System-Worthy Info-Mediaries",2025-05-02,978-8-133-75860-5,E104
+IS376,C3022,"Cross-Group Bandwidth-Monitored Focus Group",2025-01-12,978-4-983-87264-0,E134
+IS377,C1312,"Team-Oriented Foreground Methodology",2024-10-02,978-2-978-14635-8,E127
+IS378,C3729,"Programmable Mission-Critical Analyzer",2025-07-21,978-1-494-53634-8,E136
+IS379,C1347,"Realigned Holistic Circuit",2024-10-03,978-1-482-77177-9,E121
+IS380,C1510,"Integrated Scalable Paradigm",2024-10-15,978-5-363-31229-1,E101
+IS381,C1246,"Future-Proofed Global Website",2024-05-18,978-9-813-99727-0,E134
+IS382,C3871,"Versatile Asynchronous Architecture",2025-10-13,978-6-180-17329-5,E110
+IS383,C1755,"Up-Sized Transitional Local Area Network",2024-06-01,978-6-728-47555-7,E129
+IS384,C941,"Monitored User-Facing Workforce",2025-03-05,978-4-195-62288-5,E135
+IS385,C3330,"Up-Sized Systematic Process Improvement",2024-10-15,978-2-234-79041-2,E140
+IS386,C1912,"Polarized Content-Based Approach",2024-05-07,978-2-908-44079-3,E123
+IS387,C3426,"Seamless Fresh-Thinking Firmware",2025-01-05,978-0-737-83351-8,E126
+IS388,C909,"Configurable Empowering Service-Desk",2024-06-25,978-4-982-72616-1,E120
+IS389,C252,"Diverse Client-Driven Access",2025-01-24,978-5-281-62198-5,E135
+IS390,C1698,"Robust Optimal Orchestration",2024-11-23,978-7-599-24802-6,E109
+IS391,C2316,"Seamless Bandwidth-Monitored Workforce",2024-08-07,978-6-716-33652-8,E119
+IS392,C481,"Secured Clear-Thinking Flexibility",2024-01-17,978-5-577-30290-0,E133
+IS393,C1379,"Face-To-Face Even-Keeled Adapter",2025-04-22,978-0-909-57124-8,E134
+IS394,C3201,"Secured Exuding Access",2024-05-09,978-3-785-51180-3,E111
+IS395,C215,"Exclusive Fresh-Thinking Frame",2024-07-24,978-2-470-88908-1,E135
+IS396,C1160,"Decentralized Systemic Analyzer",2025-08-28,978-0-627-74314-7,E116
+IS397,C3271,"Proactive Modular Methodology",2024-09-13,978-2-771-84035-2,E120
+IS398,C1832,"Centralized Real-Time Graphic Interface",2025-08-12,978-5-990-34727-3,E133
+IS399,C3099,"Programmable Empowering Matrices",2025-06-14,978-3-173-14833-2,E104
+IS400,C1628,"Configurable Content-Based Projection",2025-10-01,978-5-259-23983-1,E117
+IS401,C2179,"Multi-Channeled Context-Sensitive Core",2024-06-11,978-7-209-41091-6,E123
+IS402,C296,"Down-Sized Leadingedge Database",2024-07-04,978-1-660-22203-5,E108
+IS403,C1321,"Seamless 24/7 Budgetary Management",2025-10-03,978-8-496-77649-0,E137
+IS404,C122,"Customizable Upward-Trending Firmware",2025-12-04,978-7-712-72814-9,E130
+IS405,C1068,"Organic Encompassing Leverage",2024-12-31,978-1-874-86756-0,E138
+IS406,C3028,"Multi-Layered Multi-State Forecast",2025-06-16,978-7-709-90691-3,E135
+IS407,C2540,"Future-Proofed 24/7 Secured Line",2024-04-16,978-2-755-96154-6,E115
+IS408,C1326,"Implemented Multi-Tasking Neural-Net",2025-07-21,978-8-581-33803-3,E119
+IS409,C3315,"Advanced Bifurcated Service-Desk",2025-09-25,978-0-695-72294-9,E137
+IS410,C674,"Robust Optimal Orchestration",2024-03-26,978-7-599-24802-6,E125
+IS411,C3121,"Persistent Dynamic Concept",2024-09-07,978-6-195-39451-1,E116
+IS412,C1443,"Programmable Hybrid Middleware",2024-10-24,978-6-328-87280-4,E134
+IS413,C889,"Universal Bifurcated Success",2025-06-14,978-1-415-62096-7,E124
+IS414,C502,"User-Friendly 6Thgeneration Framework",2025-06-26,978-5-259-21247-1,E110
+IS415,C1844,"Progressive Explicit Standardization",2024-09-29,978-3-403-39816-5,E127
+IS416,C478,"Innovative Exuding Time-Frame",2024-07-28,978-5-319-34530-4,E104
+IS417,C3740,"Automated Global Core",2024-05-05,978-9-556-33276-7,E109
+IS418,C980,"Sharable Directional Knowledge User",2025-04-14,978-3-514-41890-4,E129
+IS419,C1613,"Exclusive Hybrid Infrastructure",2024-07-20,978-5-354-64559-5,E134
+IS420,C2510,"Front-Line Optimal Toolset",2024-11-24,978-7-285-90127-6,E136
+IS421,C3291,"Cross-Group Fault-Tolerant Hardware",2025-10-14,978-4-265-70199-9,E126
+IS422,C1181,"Reduced Clear-Thinking Capacity",2024-10-01,978-5-875-79603-3,E138
+IS423,C2707,"Balanced Composite Neural-Net",2025-01-22,978-5-278-83659-9,E128
+IS424,C2923,"Team-Oriented Background Workforce",2024-05-26,978-7-585-28024-2,E132
+IS425,C4087,"Innovative 5Thgeneration Collaboration",2024-08-28,978-3-713-93634-1,E127
+IS426,C768,"Front-Line Bottom-Line Implementation",2025-01-08,978-1-526-68237-6,E110
+IS427,C621,"User-Friendly 6Thgeneration Framework",2025-10-29,978-5-259-21247-1,E132
+IS428,C1975,"Devolved Mobile Service-Desk",2025-03-17,978-9-405-18333-6,E109
+IS429,C2986,"Quality-Focused Methodical Frame",2025-02-24,978-3-443-26673-0,E133
+IS430,C2268,"Progressive Modular Budgetary Management",2024-04-20,978-6-100-14543-4,E108
+IS431,C971,"Optimized Needs-Based Pricing Structure",2025-09-09,978-8-682-13794-2,E130
+IS432,C234,"Open-Architected Methodical Projection",2024-07-21,978-7-570-14716-0,E111
+IS433,C2390,"Monitored Asymmetric Product",2024-04-03,978-0-893-73472-6,E124
+IS434,C3999,"Diverse National Portal",2025-09-27,978-6-479-15693-8,E108
+IS435,C3592,"Optimized Mission-Critical Hierarchy",2025-07-07,978-8-595-55236-5,E127
+IS436,C596,"Polarized Web-Enabled Moderator",2024-10-16,978-6-761-77181-2,E124
+IS437,C1287,"Integrated Actuating Hardware",2025-01-04,978-5-779-98643-6,E103
+IS438,C728,"Profound National Throughput",2024-06-02,978-6-562-19898-1,E108
+IS439,C1349,"Up-Sized 3Rdgeneration Framework",2025-02-26,978-9-984-39002-2,E124
+IS440,C1305,"Multi-Tiered Full-Range Adapter",2025-02-25,978-2-378-46930-9,E132
+IS441,C3341,"Persevering 24/7 Artificial Intelligence",2024-06-08,978-2-233-80807-4,E110
+IS442,C3311,"Face-To-Face Regional Contingency",2025-08-14,978-3-943-62505-5,E138
+IS443,C300,"Grass-Roots Well-Modulated Hub",2025-10-30,978-4-286-32984-2,E120
+IS444,C1262,"Mandatory Multi-Tasking Methodology",2025-03-19,978-5-196-83133-6,E114
+IS445,C3456,"Polarized Regional Infrastructure",2024-01-19,978-0-839-44522-8,E132
+IS446,C602,"Automated Scalable Analyzer",2025-05-14,978-2-438-83380-6,E136
+IS447,C377,"Future-Proofed Dynamic Orchestration",2025-09-14,978-0-320-52964-2,E103
+IS448,C2071,"Grass-Roots Intangible Open System",2024-05-20,978-0-106-79758-8,E137
+IS449,C2418,"Programmable Fresh-Thinking Success",2025-05-17,978-5-415-68402-8,E129
+IS450,C1484,"Cross-Platform Client-Server Project",2024-06-13,978-7-617-62028-1,E125
+IS451,C3518,"Secured Optimizing Architecture",2024-03-19,978-4-698-59941-5,E139
+IS452,C3221,"Public-Key Upward-Trending Groupware",2024-04-08,978-9-149-87846-0,E109
+IS453,C2707,"Centralized System-Worthy Installation",2024-07-30,978-6-841-84569-9,E130
+IS454,C1943,"Synchronized Dynamic Conglomeration",2025-10-20,978-8-401-69469-8,E129
+IS455,C3649,"Sharable Well-Modulated Database",2025-06-15,978-1-260-41439-2,E121
+IS456,C3377,"Front-Line 3Rdgeneration Strategy",2025-05-05,978-3-450-65082-4,E140
+IS457,C2655,"Ergonomic Uniform Encryption",2024-12-02,978-4-310-77862-9,E127
+IS458,C1054,"Customizable Upward-Trending Firmware",2024-09-10,978-7-712-72814-9,E126
+IS459,C2316,"Diverse Scalable Flexibility",2024-07-02,978-3-455-20048-4,E103
+IS460,C2847,"User-Friendly 4Thgeneration Implementation",2024-09-13,978-1-562-69886-0,E129
+IS461,C1237,"Triple-Buffered Regional Extranet",2025-05-26,978-6-977-78389-7,E106
+IS462,C779,"Polarized Web-Enabled Moderator",2025-05-21,978-6-761-77181-2,E102
+IS463,C2681,"Reverse-Engineered Coherent Knowledge User",2024-01-11,978-8-646-10960-1,E120
+IS464,C2743,"Up-Sized Transitional Local Area Network",2024-05-17,978-6-728-47555-7,E108
+IS465,C2392,"Team-Oriented Bifurcated Definition",2024-03-27,978-9-241-42768-0,E106
+IS466,C4013,"Diverse Asynchronous Intranet",2025-03-29,978-8-810-93476-5,E140
+IS467,C2463,"Monitored 4Thgeneration Artificial Intelligence",2025-10-22,978-1-706-54150-4,E104
+IS468,C2436,"Automated Actuating Capacity",2024-10-20,978-9-234-88282-6,E134
+IS469,C3175,"Devolved Motivating Knowledgebase",2025-10-02,978-3-329-27197-3,E131
+IS470,C3774,"Mandatory 3Rdgeneration Array",2024-10-02,978-2-337-70443-4,E102
+IS471,C2797,"Managed Zero-Defect Definition",2025-02-19,978-7-205-55015-1,E135
+IS472,C4042,"Open-Source Optimal Interface",2024-12-05,978-6-802-75866-4,E102
+IS473,C3323,"Public-Key Methodical Approach",2025-08-12,978-9-221-26864-1,E114
+IS474,C3499,"Open-Architected Heuristic Methodology",2025-09-18,978-2-751-21629-5,E138
+IS475,C447,"User-Centric Zero-Defect Architecture",2025-10-23,978-8-533-84012-5,E135
+IS476,C1413,"Ameliorated Value-Added Collaboration",2024-03-22,978-1-629-42975-6,E126
+IS477,C285,"Object-Based Client-Driven Hub",2025-03-26,978-6-482-27878-7,E132
+IS478,C3926,"Face-To-Face Even-Keeled Adapter",2025-03-08,978-0-909-57124-8,E102
+IS479,C1891,"User-Centric Context-Sensitive Algorithm",2024-10-21,978-7-378-40619-1,E112
+IS480,C199,"User-Friendly Mission-Critical Access",2024-08-18,978-0-335-37710-9,E134
+IS481,C1665,"Horizontal Clear-Thinking Architecture",2025-10-11,978-7-172-40595-4,E117
+IS482,C570,"Diverse Asynchronous Intranet",2025-01-06,978-8-810-93476-5,E107
+IS483,C789,"Enterprise-Wide Analyzing Info-Mediaries",2025-12-06,978-2-859-65176-8,E119
+IS484,C849,"Proactive Responsive Orchestration",2024-04-02,978-7-998-41148-5,E117
+IS485,C468,"Customizable Mission-Critical Installation",2024-12-19,978-8-757-17698-8,E110
+IS486,C4001,"Synchronized Methodical Contingency",2025-02-08,978-7-381-88470-8,E127
+IS487,C794,"Upgradable Asynchronous Leverage",2025-06-03,978-0-902-88579-8,E104
+IS488,C4037,"Organized Local Firmware",2025-03-07,978-7-549-78690-8,E121
+IS489,C212,"Digitized Grid-Enabled Analyzer",2025-11-10,978-3-923-87015-8,E104
+IS490,C1698,"Multi-Layered Methodical Application",2024-03-27,978-6-793-80852-5,E107
+IS491,C684,"Multi-Channeled Full-Range Productivity",2025-06-18,978-8-619-53421-4,E127
+IS492,C1428,"Business-Focused Demand-Driven Concept",2024-07-06,978-7-907-55054-0,E117
+IS493,C3957,"Reverse-Engineered Coherent Algorithm",2025-08-14,978-8-536-81810-7,E108
+IS494,C930,"Integrated 24Hour Instruction Set",2024-06-11,978-1-876-66010-8,E116
+IS495,C2546,"Grass-Roots Static Analyzer",2024-07-31,978-5-851-55268-6,E138
+IS496,C2120,"Integrated 24Hour Instruction Set",2025-04-29,978-1-876-66010-8,E133
+IS497,C2167,"De-Engineered Modular Productivity",2024-12-02,978-6-459-17398-3,E125
+IS498,C572,"Visionary Background Alliance",2025-02-17,978-6-238-70515-2,E118
+IS499,C1404,"Cross-Group Fault-Tolerant Solution",2024-03-26,978-4-602-85061-8,E130
+IS500,C1768,"Devolved Demand-Driven Circuit",2024-12-24,978-4-755-52616-4,E105
+IS501,C219,"Multi-Channeled Discrete Flexibility",2024-07-21,978-6-694-23205-5,E127
+IS502,C1058,"User-Friendly Didactic Support",2024-08-09,978-7-379-35272-1,E102
+IS503,C2370,"Phased Systematic Alliance",2025-06-07,978-5-671-94495-5,E138
+IS504,C516,"Proactive Mobile Encoding",2024-03-24,978-2-742-70374-8,E116
+IS505,C2373,"Triple-Buffered Needs-Based Product",2024-07-01,978-2-300-53236-3,E109
+IS506,C2428,"Synergistic Upward-Trending Model",2025-07-10,978-6-270-64266-7,E127
+IS507,C444,"Right-Sized 3Rdgeneration Knowledgebase",2024-01-02,978-8-469-18870-8,E133
+IS508,C3307,"Digitized National Function",2024-05-06,978-5-970-18300-8,E110
+IS509,C2314,"Devolved Actuating Matrix",2024-05-22,978-3-329-28837-9,E111
+IS510,C1105,"Streamlined Leadingedge Firmware",2025-05-03,978-0-812-71564-9,E135
+IS511,C1836,"Future-Proofed Human-Resource Solution",2025-07-15,978-4-343-22571-0,E136
+IS512,C272,"Multi-Tiered Optimal Core",2024-03-19,978-9-941-30204-7,E101
+IS513,C2004,"Secured Well-Modulated Function",2025-04-08,978-9-788-16380-3,E140
+IS514,C2775,"Total Clear-Thinking Approach",2024-09-08,978-6-490-88104-7,E111
+IS515,C347,"Inverse Actuating Success",2025-09-03,978-6-341-68554-4,E131
+IS516,C2549,"User-Friendly 6Thgeneration Benchmark",2024-04-05,978-0-447-17347-5,E117
+IS517,C2886,"Pre-Emptive Tertiary Model",2025-04-18,978-9-539-60965-0,E125
+IS518,C3551,"Public-Key User-Facing Instruction Set",2024-07-03,978-5-141-38681-7,E114
+IS519,C3544,"Stand-Alone Asynchronous Access",2024-07-06,978-6-360-10395-3,E133
+IS520,C287,"Persistent Bottom-Line Policy",2025-06-07,978-2-574-94685-7,E111
+IS9999,C101,"Test Book",2026-01-09,978-0-306-30887-4,E101
